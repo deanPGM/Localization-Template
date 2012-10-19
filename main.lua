@@ -1,7 +1,8 @@
-
 --Project: Localisation App Template                        																															
 --Description: A basic app that translates itself based on the users device language
 --Also has the options to choose language by clicking on country flags. 
+--Supporting Blog Post: http://echoecho.es/blog/2012/10/18/corona-sdk-tutorial-ios-app-localization
+
 --Twitter: @CraftyDeano
 --GitHub: @CraftyDeano
 --App.Net @CraftyDeano
